@@ -172,10 +172,10 @@
     "axios" "0.21.4"
     "events" "^3.1.0"
 
-"@aws-amplify/ui-components@>=0.3.0":
-  "integrity" "sha512-PrDG5o/svbZm87XModXvzBQ+HflHSmxse4S0yKcFRPuUmLkspzdBcwFmjb1SCqmXKtTVKVkCHJ38rZiO/WFNfw=="
-  "resolved" "https://registry.npmjs.org/@aws-amplify/ui-components/-/ui-components-1.7.2.tgz"
-  "version" "1.7.2"
+"@aws-amplify/ui-components@^1.9.6", "@aws-amplify/ui-components@>=0.3.0":
+  "integrity" "sha512-NfN6mlDrS41qCQ7BNe/bTDQXAG4kUhRnXIQCbi9oY/lnWImtKLrx37zVieuXi5PF/coVCMT+M1OfBbo8LM2wiw=="
+  "resolved" "https://registry.npmjs.org/@aws-amplify/ui-components/-/ui-components-1.9.6.tgz"
+  "version" "1.9.6"
   dependencies:
     "qrcode" "^1.4.4"
     "uuid" "^8.2.0"
