@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\Documentos\\IFSP-ADS\\5º Semestre\\DWE -DesenvolvimentoWeb\\projeto_react_aws\\amplifyapp\\amplify\\backend\\api\\amplifyapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-26T18:41:06.076Z",
+      "keyDescription": "listagem de notas"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
